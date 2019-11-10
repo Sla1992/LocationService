@@ -10,5 +10,4 @@ import com.bharath.location.entities.Location;
 //Man kriegt Fahrradrahmenwerk und baut nur das Gehäuse
 
 public interface LocationRepository extends JpaRepository<Location, Integer> {
-
 }

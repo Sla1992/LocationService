@@ -46,7 +46,7 @@ public class Location {
 
     @Override
     public String toString() {
-        return "lcoation{" +
+        return "location{" +
                 "id=" + id +
                 ", code='" + code + '\'' +
                 ", name='" + name + '\'' +
